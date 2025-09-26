@@ -15,9 +15,7 @@ Datos de cuenta: nombre y correo electrónico (incluyendo los provistos por el i
 
 Datos de uso: grupos creados, gastos registrados, participantes, saldos y movimientos dentro de la app.
 
-Datos de pago: información necesaria para procesar pagos a través de terceros (p. ej., identificadores de transacción de Mercado Pago). No almacenamos datos sensibles de tarjetas en nuestros servidores.
-
-Datos técnicos básicos: modelo de dispositivo, sistema operativo y versiones de la app (para soporte y diagnóstico).
+Datos técnicos básicos: modelo de dispositivo, sistema operativo y versión de la app (para soporte y diagnóstico).
 
 No mostramos anuncios y no vendemos ni alquilamos tus datos.
 
@@ -26,8 +24,6 @@ No mostramos anuncios y no vendemos ni alquilamos tus datos.
 Autenticar tu cuenta e iniciar sesión.
 
 Registrar y sincronizar gastos, deudas y saldos entre los miembros de tus grupos.
-
-Procesar pagos de forma segura a través de proveedores externos.
 
 Mejorar la estabilidad y seguridad del servicio, solucionar errores y prevenir abuso.
 
@@ -39,15 +35,11 @@ Supabase (base de datos, autenticación y almacenamiento).
 
 Google (inicio de sesión con Google).
 
-Mercado Pago (procesamiento de pagos).
-
 Cada proveedor trata los datos conforme a sus propias políticas:
 
 Supabase: https://supabase.com/privacy
 
 Google: https://policies.google.com/privacy
-
-Mercado Pago: https://www.mercadopago.com/legal/privacy
 
 5. Seguridad
 
@@ -55,7 +47,8 @@ Aplicamos buenas prácticas de seguridad y cifrado en tránsito. Aunque trabajam
 
 6. Retención
 
-Conservamos los datos mientras mantengas tu cuenta o según sea necesario para prestar el servicio y cumplir obligaciones legales. Si solicitas la eliminación de tu cuenta, eliminaremos o anonimizaremos la información que no debamos conservar por ley.
+Conservamos los datos mientras mantengas tu cuenta o según sea necesario para prestar el servicio y cumplir obligaciones legales.
+Si solicitas la eliminación de tu cuenta, eliminaremos o anonimizaremos la información que no debamos conservar por ley.
 
 7. Tus derechos
 
