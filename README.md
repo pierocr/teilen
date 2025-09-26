@@ -1,60 +1,84 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Política de Privacidad - Teilen</title>
-</head>
-<body>
-  <h1>Política de Privacidad</h1>
-  <p>Última actualización: Septiembre 2025</p>
+Política de Privacidad – Teilen
 
-  <p>En <strong>Teilen</strong> respetamos y protegemos la privacidad de nuestros usuarios. 
-  Esta Política de Privacidad explica qué información recopilamos, cómo la utilizamos y qué derechos tienes como usuario.</p>
+Última actualización: Septiembre 2025
 
-  <h2>1. Información que recopilamos</h2>
-  <ul>
-    <li><strong>Datos de registro:</strong> nombre, correo electrónico y credenciales de acceso (cuando inicias sesión con Google u otros proveedores).</li>
-    <li><strong>Datos de uso:</strong> gastos, deudas y transacciones registradas dentro de la aplicación.</li>
-    <li><strong>Datos de pagos:</strong> información necesaria para procesar transacciones mediante proveedores externos como Mercado Pago.</li>
-  </ul>
+En Teilen respetamos tu privacidad. Esta política explica qué información recopilamos, cómo la usamos y qué derechos tienes como usuario.
 
-  <h2>2. Cómo usamos tu información</h2>
-  <ul>
-    <li>Para autenticar tu cuenta y permitirte acceder a la app.</li>
-    <li>Para gestionar tus gastos, deudas y balances dentro de grupos.</li>
-    <li>Para procesar pagos de manera segura con proveedores externos.</li>
-    <li>Para mejorar y mantener el correcto funcionamiento de la aplicación.</li>
-  </ul>
+1. Quiénes somos
 
-  <h2>3. Compartición de información</h2>
-  <p>No vendemos ni alquilamos tus datos a terceros. 
-  Solo compartimos información con servicios externos estrictamente necesarios para el funcionamiento de la app, como:</p>
-  <ul>
-    <li><strong>Supabase:</strong> almacenamiento seguro de datos y autenticación.</li>
-    <li><strong>Mercado Pago:</strong> procesamiento de pagos.</li>
-    <li><strong>Google:</strong> inicio de sesión con cuenta de Google.</li>
-  </ul>
+Teilen es una aplicación móvil para dividir gastos y gestionar deudas en grupo.
+Contacto: pierocr@gmail.com
 
-  <h2>4. Seguridad</h2>
-  <p>Utilizamos cifrado y buenas prácticas de seguridad para proteger tu información. 
-  Sin embargo, ningún sistema es 100% seguro y no podemos garantizar la seguridad absoluta de tus datos.</p>
+2. Información que recopilamos
 
-  <h2>5. Tus derechos</h2>
-  <p>Puedes solicitar en cualquier momento:</p>
-  <ul>
-    <li>Acceso a tus datos.</li>
-    <li>Rectificación o actualización de información.</li>
-    <li>Eliminación de tu cuenta y de tus datos asociados.</li>
-  </ul>
-  <p>Para ejercer estos derechos, contáctanos en <a href="mailto:soporte@teilen.com">soporte@teilen.com</a>.</p>
+Datos de cuenta: nombre y correo electrónico (incluyendo los provistos por el inicio de sesión con Google).
 
-  <h2>6. Cambios a esta política</h2>
-  <p>Nos reservamos el derecho de actualizar esta Política de Privacidad. 
-  Notificaremos a los usuarios a través de la aplicación en caso de cambios importantes.</p>
+Datos de uso: grupos creados, gastos registrados, participantes, saldos y movimientos dentro de la app.
 
-  <h2>7. Contacto</h2>
-  <p>Si tienes dudas sobre esta política, puedes escribirnos a: 
-  <a href="mailto:soporte@teilen.com">soporte@teilen.com</a>.</p>
+Datos de pago: información necesaria para procesar pagos a través de terceros (p. ej., identificadores de transacción de Mercado Pago). No almacenamos datos sensibles de tarjetas en nuestros servidores.
 
-</body>
-</html>
+Datos técnicos básicos: modelo de dispositivo, sistema operativo y versiones de la app (para soporte y diagnóstico).
+
+No mostramos anuncios y no vendemos ni alquilamos tus datos.
+
+3. Para qué usamos tus datos
+
+Autenticar tu cuenta e iniciar sesión.
+
+Registrar y sincronizar gastos, deudas y saldos entre los miembros de tus grupos.
+
+Procesar pagos de forma segura a través de proveedores externos.
+
+Mejorar la estabilidad y seguridad del servicio, solucionar errores y prevenir abuso.
+
+4. Con quién compartimos datos
+
+Solo con servicios necesarios para operar la app:
+
+Supabase (base de datos, autenticación y almacenamiento).
+
+Google (inicio de sesión con Google).
+
+Mercado Pago (procesamiento de pagos).
+
+Cada proveedor trata los datos conforme a sus propias políticas:
+
+Supabase: https://supabase.com/privacy
+
+Google: https://policies.google.com/privacy
+
+Mercado Pago: https://www.mercadopago.com/legal/privacy
+
+5. Seguridad
+
+Aplicamos buenas prácticas de seguridad y cifrado en tránsito. Aunque trabajamos para proteger tu información, ningún sistema puede garantizar seguridad absoluta.
+
+6. Retención
+
+Conservamos los datos mientras mantengas tu cuenta o según sea necesario para prestar el servicio y cumplir obligaciones legales. Si solicitas la eliminación de tu cuenta, eliminaremos o anonimizaremos la información que no debamos conservar por ley.
+
+7. Tus derechos
+
+Puedes solicitar:
+
+Acceso a tus datos personales.
+
+Corrección/actualización.
+
+Eliminación de tu cuenta y datos asociados (salvo los que debamos conservar por requisitos legales).
+
+Cómo ejercerlos: escríbenos a pierocr@gmail.com
+ desde el correo asociado a tu cuenta.
+
+8. Menores de edad
+
+Teilen está destinada a personas de 13 años o más y no se dirige a niños.
+
+9. Cambios a esta política
+
+Podemos actualizar esta política. Publicaremos la versión vigente en este repositorio y, si el cambio es relevante, lo notificaremos dentro de la app.
+
+10. Contacto
+
+Si tienes dudas o solicitudes sobre privacidad, escríbenos a pierocr@gmail.com
+.
